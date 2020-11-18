@@ -1,0 +1,313 @@
+<Customers 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>9</AddressID>
+    <AddressLine1>8713 Yosemite Ct.</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Bothell</City>
+    <StateProvince>Washington</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>98011</PostalCode>
+    <rowguid>268AF621-76D7-4C78-9441-144FD139821A</rowguid>
+    <ModifiedDate>2006-07-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>11</AddressID>
+    <AddressLine1>1318 Lasalle Street</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Bothell</City>
+    <StateProvince>Washington</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>98011</PostalCode>
+    <rowguid>981B3303-ACA2-49C7-9A96-FB670785B269</rowguid>
+    <ModifiedDate>2007-04-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>25</AddressID>
+    <AddressLine1>9178 Jumping St.</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Dallas</City>
+    <StateProvince>Texas</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>75201</PostalCode>
+    <rowguid>C8DF3BD9-48F0-4654-A8DD-14A67A84D3C6</rowguid>
+    <ModifiedDate>2006-09-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>28</AddressID>
+    <AddressLine1>9228 Via Del Sol</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Phoenix</City>
+    <StateProvince>Arizona</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>85004</PostalCode>
+    <rowguid>12AE5EE1-FC3E-468B-9B92-3B970B169774</rowguid>
+    <ModifiedDate>2005-09-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>32</AddressID>
+    <AddressLine1>26910 Indela Road</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Montreal</City>
+    <StateProvince>Quebec</StateProvince>
+    <CountryRegion>Canada</CountryRegion>
+    <PostalCode>H1Y 2H5</PostalCode>
+    <rowguid>84A95F62-3AE8-4E7E-BBD5-5A6F00CD982D</rowguid>
+    <ModifiedDate>2006-08-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>185</AddressID>
+    <AddressLine1>2681 Eagle Peak</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Bellevue</City>
+    <StateProvince>Washington</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>98004</PostalCode>
+    <rowguid>7BCCF442-2268-46CC-8472-14C44C14E98C</rowguid>
+    <ModifiedDate>2006-09-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>297</AddressID>
+    <AddressLine1>7943 Walnut Ave</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Renton</City>
+    <StateProvince>Washington</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>98055</PostalCode>
+    <rowguid>52410DA4-2778-4B1D-A599-95746625CE6D</rowguid>
+    <ModifiedDate>2006-08-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>445</AddressID>
+    <AddressLine1>6388 Lake City Way</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Burnaby</City>
+    <StateProvince>British Columbia</StateProvince>
+    <CountryRegion>Canada</CountryRegion>
+    <PostalCode>V5A 3A6</PostalCode>
+    <rowguid>53572F25-9133-4A8B-A065-102FF35416EE</rowguid>
+    <ModifiedDate>2006-09-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>446</AddressID>
+    <AddressLine1>52560 Free Street</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Toronto</City>
+    <StateProvince>Ontario</StateProvince>
+    <CountryRegion>Canada</CountryRegion>
+    <PostalCode>M4B 1V7</PostalCode>
+    <rowguid>801A1DFC-5125-486B-AA84-CCBD2EC57CA4</rowguid>
+    <ModifiedDate>2005-08-01T00:00:00</ModifiedDate>
+  </Customer>
+  <Customer>
+    <CustomerID>29485</CustomerID>
+    <NameStyle>0</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Catherine</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Abel</LastName>
+    <Suffix xsi:nil="true"/>
+    <CompanyName>Professional Sales and Service</CompanyName>
+    <SalesPerson>adventure-works\linda3</SalesPerson>
+    <EmailAddress>catherine0@adventure-works.com</EmailAddress>
+    <Phone>747-555-0171</Phone>
+    <PasswordHash>zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=</PasswordHash>
+    <PasswordSalt>rpyd5Tw=</PasswordSalt>
+    <rowguid>392AE773-D7EC-48AC-B8D0-6E65B770285C</rowguid>
+    <ModifiedDate>2009-05-16T16:33:33.077</ModifiedDate>
+    <CustomerID>29485</CustomerID>
+    <AddressID>1086</AddressID>
+    <AddressType>Main Office</AddressType>
+    <rowguid>16765338-DBE4-4421-B5E9-3836B9278E63</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00</ModifiedDate>
+    <AddressID>447</AddressID>
+    <AddressLine1>22580 Free Street</AddressLine1>
+    <AddressLine2 xsi:nil="true"/>
+    <City>Toronto</City>
+    <StateProvince>Ontario</StateProvince>
+    <CountryRegion>Canada</CountryRegion>
+    <PostalCode>M4B 1V7</PostalCode>
+    <rowguid>88CEE379-DBB8-433B-B84E-A35E09435500</rowguid>
+    <ModifiedDate>2006-08-01T00:00:00</ModifiedDate>
+  </Customer>
+</Customers>
