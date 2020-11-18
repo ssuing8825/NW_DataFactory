@@ -1,0 +1,57 @@
+{
+	"name": "CopyFromSqlToBlob",
+	"properties": {
+		"activities": [
+			{
+				"name": "CopyDataFromSourceDBToBlob",
+				"type": "Copy",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "7.00:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [
+					{
+						"name": "Source",
+						"value": "SalesLT.Address"
+					},
+					{
+						"name": "Destination",
+						"value": "fromsqldocs//thefilename"
+					}
+				],
+				"typeProperties": {
+					"source": {
+						"type": "AzureSqlSource",
+						"sqlReaderQuery": "SELECT top (10) abb.CustomerId\n      ,(Select * FROM [SalesLT].[Customer] c\n             Left OUTER JOIN SalesLT.CustomerAddress ca\n                on c.CustomerID = ca.CustomerID \n            left outer JOIN SalesLT.Address a on ca.AddressID = a.AddressID \n            WHERE abb.CustomerID = c.CustomerID \n            FOR XML PATH('Customer') ) AS RowXML\nFROM [SalesLT].[Customer] AS abb",
+						"partitionOption": "None"
+					},
+					"sink": {
+						"type": "CosmosDbSqlApiSink",
+						"writeBehavior": "insert"
+					},
+					"enableStaging": false,
+					"validateDataConsistency": false
+				},
+				"inputs": [
+					{
+						"referenceName": "SourceDataset_55t",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "CosmosDbSqlApiCollection1",
+						"type": "DatasetReference"
+					}
+				]
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2020-11-17T14:17:29Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
